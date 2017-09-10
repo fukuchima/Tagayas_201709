@@ -1,7 +1,7 @@
 # Tagayas
 ## 仙台・宮城とれたてネタ！【タガヤス その１】
   2017年9月8日開催  
-  [Connopass](https://tagayas.connpass.com/event/64324/)  
+  [Connpass](https://tagayas.connpass.com/event/64324/)  
   
 ### Xamarin（ザマリン） 〜 Microsoft技術でAndroid/iOSアプリ開発 〜
 デモ用サンプルプロジェクト Visual Studio用  
