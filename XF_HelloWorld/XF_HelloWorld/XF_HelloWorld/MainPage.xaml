@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XF_HelloWorld"
+             x:Class="XF_HelloWorld.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center">
+        <Label Text="Welcome to Xamarin Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="FillAndExpand" 
+           HorizontalTextAlignment="Center"
+           x:Name="Label1"/>
+
+        <Button x:Name="Button1" Text="ボタン"/>
+
+        
+    </StackLayout>
+
+</ContentPage>
